@@ -3,4 +3,5 @@
 export(myfx1)
 export(myfx2)
 export(myfx4)
+export(reverse)
 useDynLib(ry3)
